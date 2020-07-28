@@ -1,1 +1,1 @@
-![Game Engine Programmer](img/cover.png)
+![Game Engine Programmer](https://i.postimg.cc/4xP2RPhh/cover.png)
